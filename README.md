@@ -17,7 +17,3 @@ This project offers a RESTful API designed for user management. It enables full 
 - Flask-RESTful extension
 - SQLAlchemy ORM
 
-### Installation Instructions
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
